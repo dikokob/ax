@@ -10,7 +10,6 @@ _saved*.sch
 APRSDongle
 AXGen2_RadioLAB_V1.1e
 ax_radiolab_output
-datasheets
 gnuradio
 mwo
 sw/cffi_test
